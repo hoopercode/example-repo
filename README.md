@@ -17,3 +17,11 @@ git pull origin main - This pulls any existing changes before sending.  This is 
 
 git push origin main - This actually pushes the files to the cloud
 
+## Branch Note
+
+- git checkout - b name-of-branch (This creates a new branch & also takes you to that current branch workspace)
+
+- git checkout name-of-branch (This command takes you to any branch)
+
+- git push origin name-of-branch (This pushes the branch back to GITHUB)
+
