@@ -11,3 +11,9 @@ git add . - This adds everything in THIS folder up
 
 git -A adds everything in subfolders too
 
+git commit-m "Meaningful message" - This preps the files to go with a message included
+
+git pull origin main - This pulls any existing changes before sending.  This is good to do when working with groups.
+
+git push origin main - This actually pushes the files to the cloud
+
