@@ -5,4 +5,4 @@ git clone URL OF THE REPOSITORY
 
 Reminder - NEVER CLONE A REPO INTO A REPO
 
-
+Modify - Do something to make changes!
